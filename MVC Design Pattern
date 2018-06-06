@@ -3,3 +3,8 @@ Input      --> Processing --> Output
 Controller --> Model      --> View
 
 PacienteController --> Paciente.cs --> Paciente/Index.html	
+
+Create
+Edit
+Delete
+GetAll
